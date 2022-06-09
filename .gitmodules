@@ -1,0 +1,3 @@
+[submodule "WeSplitApp"]
+	path = WeSplitApp
+	url = https://github.com/mstill3/WeSplitApp
